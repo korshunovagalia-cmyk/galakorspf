@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "galakors-portfolio",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["/Users/galakors/Desktop/CLAUDE/GALAKORS_PF/scripts/serve.py"],
+      "port": 8743
+    }
+  ]
+}
